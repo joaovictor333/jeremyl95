@@ -1,5 +1,4 @@
-### Hello, I'm Jeremy <img src="https://github.com/JeremyL95/jeremyl95/blob/main/gif/wave.gif" width="24px" /> 
-
+### Hello, I'm Jeremy..
 
 ### 🤓 About Me
 
@@ -7,11 +6,12 @@
 - 🌱 I’m currently learning JavaScript and React JS.
 - 👯 I’m looking forward to collaborate on JavaScript projects.
 - 💻 2022 Goals: Learn React Native, Express & improve my coding skills.
-- 📄 Please have a look at my <a href ="https://drive.google.com/file/d/1sik77KMIANyCzn9alqJw_fgE8t0Rk09v/view?usp=sharing" target="blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my <a href ="https://drive.google.com/file/d/11HgmQoUImd5FVKpDdE6QfN4st4CwjDxM/view?usp=sharingg" target="blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
 
 ---
 
 ### 🛠 Tech Stack
+
 <!-- languages -->
 <a href="https://github.com/JeremyL95" target="_blank"> 
 <img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/html.png" alt="HTML" width="26px" />
