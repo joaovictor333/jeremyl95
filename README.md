@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://github.com/JeremyL95" target="_blank"> 
-<img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/php.png" alt="JavaScript" width="26px" />
+<img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/php.png" alt="php" width="26px" />
 </a>
 
 <a href="https://github.com/JeremyL95" target="_blank"> 
