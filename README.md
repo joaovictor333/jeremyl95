@@ -7,7 +7,7 @@
 - 👯 I’m looking forward to collaborate on JavaScript projects.
 - 💻 2022 Goals: Learn Vue JS, Express & improve my coding skills.
 
-- 📄 Please have a look at my <a href ="https://drive.google.com/file/d/16E2JLCPv6I04dSVB3bOnVRcjLcgEBr-B/view?usp=share_link" target="blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my <a href ="https://drive.google.com/file/d/16E2JLCPv6I04dSVB3bOnVRcjLcgEBr-B/view?usp=share_link" target="_blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
 
 ---
 
