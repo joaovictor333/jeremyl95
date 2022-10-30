@@ -3,10 +3,11 @@
 ### 🤓 About Me
 
 - 🔭 I’m currently working on my health and self-improvement.
-- 🌱 I’m currently learning JavaScript and React JS.
+- 🌱 I’m currently learning JavaScript and Vue JS.
 - 👯 I’m looking forward to collaborate on JavaScript projects.
-- 💻 2022 Goals: Learn React Native, Express & improve my coding skills.
-- 📄 Please have a look at my <a href ="https://drive.google.com/file/d/11HgmQoUImd5FVKpDdE6QfN4st4CwjDxM/view?usp=sharingg" target="blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
+- 💻 2022 Goals: Learn Vue JS, Express & improve my coding skills.
+https://drive.google.com/file/d/16E2JLCPv6I04dSVB3bOnVRcjLcgEBr-B/view?usp=share_link
+- 📄 Please have a look at my <a href ="https://drive.google.com/file/d/16E2JLCPv6I04dSVB3bOnVRcjLcgEBr-B/view?usp=share_link" target="blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
 
 ---
 
