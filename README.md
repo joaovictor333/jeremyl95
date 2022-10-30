@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript and Vue JS.
 - 👯 I’m looking forward to collaborate on JavaScript projects.
 - 💻 2022 Goals: Learn Vue JS, Express & improve my coding skills.
-https://drive.google.com/file/d/16E2JLCPv6I04dSVB3bOnVRcjLcgEBr-B/view?usp=share_link
+
 - 📄 Please have a look at my <a href ="https://drive.google.com/file/d/16E2JLCPv6I04dSVB3bOnVRcjLcgEBr-B/view?usp=share_link" target="blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
 
 ---
@@ -27,6 +27,10 @@ https://drive.google.com/file/d/16E2JLCPv6I04dSVB3bOnVRcjLcgEBr-B/view?usp=share
 </a>
 
 <a href="https://github.com/JeremyL95" target="_blank"> 
+<img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/php.png" alt="JavaScript" width="26px" />
+</a>
+
+<a href="https://github.com/JeremyL95" target="_blank"> 
 <img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/sass.png" alt="Sass" width="26px" />
 </a>
 
@@ -34,9 +38,22 @@ https://drive.google.com/file/d/16E2JLCPv6I04dSVB3bOnVRcjLcgEBr-B/view?usp=share
 <img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/c-sharp.png" alt="C#" width="26px" />
 </a>
 
+<!-- library -->
+<a href="https://jquery.com/" target="_blank"> 
+<img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/jquery.png" alt="jQuery" width="26px" />
+</a>
+
 <!-- frameworks -->
 <a href="https://getbootstrap.com/" target="_blank"> 
 <img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/bootstrap.png" alt="Bootstrap" width="26px" />
+</a>
+
+<a href="https://vuejs.org/" target="_blank"> 
+<img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/vue.png" alt="Vue" width="26px" />
+</a>
+
+<a href="https://vuetifyjs.com/" target="_blank"> 
+<img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/vuetify.png" alt="Vuetify" width="26px" />
 </a>
 
 <!-- tools -->
